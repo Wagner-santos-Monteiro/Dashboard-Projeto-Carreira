@@ -62,4 +62,4 @@ Wagner dos Santos Monteiro Filho
 
 ---
 
-🚀 *Este é apenas o começo! Em breve, mais painéis e análises estarão disponíveis neste repositório.*
+🚀 Esse projeto faz parte do meu portfólio de Analise de Dados e BI, com foco em aplicar soluções de análise para empresas de tecnologia e inovação.
